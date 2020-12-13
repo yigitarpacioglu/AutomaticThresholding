@@ -17,3 +17,4 @@ give, u1 and u2. Next threshold value will be:
 𝑇=0.5∗(𝑢1+𝑢2)
 
 Then repeat this iteration until u1=u2.
+
